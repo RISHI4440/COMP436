@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog>
+  <album>
+    <title>The Dark Side of the Moon</title>
+    <artist>Pink Floyd</artist>
+    <genre>Progressive Rock</genre>
+    <release_date>1973-03-01</release_date>
+    <value>20.99</value>
+    <location>Bed Room</location>
+    <owner>John Smith</owner>
+  </album>
+  <album>
+    <title>Thriller</title>
+    <artist>Michael Jackson</artist>
+    <genre>Pop</genre>
+    <release_date>1982-11-30</release_date>
+    <value>17.98</value>
+    <location>Music Shelf</location>
+    <owner>Mary Johnson</owner>
+  </album>
+</catalog>
